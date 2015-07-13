@@ -1,0 +1,15 @@
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\MyEntity.exe.config
+D:\practice of C#\MyEntity\MyEntity\obj\Debug\MyEntity.csprojResolveAssemblyReference.cache
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\MyEntity.exe
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\MyEntity.pdb
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\EntityFramework.dll
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\EntityFramework.xml
+D:\practice of C#\MyEntity\MyEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice of C#\MyEntity\MyEntity\obj\Debug\MyEntity.exe
+D:\practice of C#\MyEntity\MyEntity\obj\Debug\MyEntity.pdb
+D:\practice of C#\MyEntity\MyEntity\obj\Debug\MyEntity.Migrations.ttt.resources
+D:\practice of C#\MyEntity\MyEntity\obj\Debug\MyEntity.csproj.GenerateResource.Cache
+D:\BSA-ORM\MyEntity\MyEntity\bin\Debug\MyEntity.exe.config
+D:\BSA-ORM\MyEntity\MyEntity\obj\Debug\MyEntity.exe
+D:\BSA-ORM\MyEntity\MyEntity\obj\Debug\MyEntity.pdb
